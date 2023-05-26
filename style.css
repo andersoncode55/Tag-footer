@@ -1,0 +1,29 @@
+footer {
+    background-color:violet;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footer-content p {
+    margin: 0;
+  }
+  
+  /* Estilos para telas menores */
+  @media screen and (max-width: 768px) {
+    .footer-content {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+  
