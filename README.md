@@ -19,6 +19,31 @@ O objetivo da tag footer em HTML é fornecer uma estrutura semântica para marca
 ## 📝 Uso básico da tag footer
 O uso básico da tag footer em HTML é bastante simples. Você pode inseri-la dentro do elemento <body> para marcar o início e o fim do conteúdo do rodapé. Aqui está um exemplo de uso básico da tag footer.
  
+ 
+![Capturar_2023_05_26_11_19_30_654](https://github.com/andersoncode55/Tag-footer/assets/61977421/5645a7e6-129e-4322-b390-0861eb852ad5)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <footer>
+    <p>&copy; 2023 Empresa XYZ. Todos os direitos reservados.</p>
+    <nav>
+        <a href="/">Página Inicial</a> |
+        <a href="/sobre">Sobre</a> |
+        <a href="/contato">Contato</a>
+    </nav>
+</footer>
+
+ 
+
+ 
+ 
+ 
+ 
+ 
 Dentro da tag footer, você pode incluir diversos elementos HTML para adicionar informações relevantes ao rodapé da página. Por exemplo, pode adicionar um parágrafo com informações de direitos autorais, um menu de navegação secundário ou links para páginas relacionadas.
 
 
